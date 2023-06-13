@@ -2,7 +2,7 @@
 
 Implementations of cGANs and cDCGANs. Works on both RBG (CIFAR, Intel) and grayscale (MNIST, Fashion-MNIST) images.
 
-A report could be found [here](report.pdf).
+A report could be found [here](doc/report.pdf).
 
 ## Description
 
